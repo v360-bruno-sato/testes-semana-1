@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="DemoTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-09-24T14:44:03" hostname="Brunos-MacBook-Air.local" time="0.003">
+  <properties/>
+  <testcase name="quandoValorDeTrianguloNegativoEsperaErro" classname="DemoTest" time="0.002"/>
+  <testcase name="quandoValoresDeTrianguloCorretoEsperaTrue" classname="DemoTest" time="0.001"/>
+  <testcase name="quandoValoresDeTrianguloErradoEsperaFalse" classname="DemoTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
